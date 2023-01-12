@@ -1,5 +1,4 @@
-👋 Hi, I’m Micaela Piacenza, but you can call me Mica!
-
+👋 Hi, I’m Micaela!
 📍 I am from Argentina, but I have been living on Australia, Gold Coats for the last 5 years.
 
 📚 I am currently studing Software Engineering at Griffith University, 2023 is my last year of uni.
